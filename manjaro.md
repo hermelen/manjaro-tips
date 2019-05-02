@@ -1,8 +1,10 @@
 # Manjaro
 ## Global
-- win+maj+q quitter un programme
-- win+maj+r reload i3
-- win+v = vertical mode (hpour horizontal)
+- win + maj + q: quitter un programme
+- win + maj + r: reload i3
+- Manage window display (split):
+    - win + v: vertical mode (hpour horizontal)
+    - win + d: search for apps
 
 ## Terminal
 - terminal ctrl D pour quitter
